@@ -1,0 +1,1 @@
+print('Tu przedstawi sie kolega')
